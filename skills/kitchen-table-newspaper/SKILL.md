@@ -31,10 +31,12 @@ US Letter, portrait, white page. Classic newspaper: masthead, column rules, tigh
 - This weekend at our house
 - Smaller grown-up don't-forgets at the bottom of the column
 
-**Two smaller right columns: the outside world.**
-- 4–6 real kid-appropriate stories (science, space, animals, sports, local fun in the household's city)
-- Look them up. Do not invent. A one-line source is enough.
-- This weekend / around town, if something fun and real is on
+**Two full-height right columns, both filled top to bottom.**
+- **Left of the two: OUT IN THE WORLD.** 2–3 real kid-appropriate stories (science, space, animals, sports). Match the count to the kids' ages — toddlers get fewer stories, each one worth their limited attention. Keep each body to 2–3 short sentences.
+- **Right of the two: AROUND TOWN.** This is the emphasis column: 3–4 local items, each with its own headline (festivals, park events, library story time, school fundraisers, local newspaper news — real and checkable). When local news is thin, a second kid-friendly local angle beats another world story.
+- Look them up. Do not invent. A one-line source under each story is enough.
+- Local stories with real news value (like the Gazette piece) belong in AROUND TOWN, not the world column.
+- Content contract for the renderer: `world_news` = list of {headline, body, source}; `around_town_items` = list of {headline, body, source}. The renderer keeps whatever fits cleanly above the footer — short bodies are what let both columns fill.
 
 ## Leave off the page
 

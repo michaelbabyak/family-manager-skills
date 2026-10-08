@@ -8,6 +8,23 @@ These apply to every skill in this pack. They are the non-negotiables — the th
 - Default to drafting. The owner decides what goes out.
 - Keep the home address out of digests and anything kids can see.
 
+## Standing approvals (optional, owner sets once)
+
+The default above is draft-everything. If the owner wants the agent to act without asking each time, they grant **standing approvals**: named permission tiers, set once, reviewed monthly.
+
+- **Green — act freely, note it in the next digest.** Safe, reversible, low-stakes. Example: placing tentative HOLD events on the family calendar for the household (the owner confirms or deletes them).
+- **Yellow — act, then flag it the same day.** Example: booking a routine appointment with a known provider inside pre-approved time windows.
+- **Red — always draft for review, no exceptions.** Anything that spends money, contacts someone new, cancels something, or is visible to the kids.
+
+Rules for the pattern itself:
+
+- Never put purchasing on green based on guessed quantities (no "I estimated you're low on diapers, so I ordered some"). Money moves only on the owner's explicit word or a yellow/red tier they defined with real numbers.
+- Every auto-action gets logged: what, when, amount. The owner can audit the whole trail.
+- A kill switch phrase ("pause standing approvals") drops everything back to draft-only instantly.
+- Re-confirm the tiers monthly. The owner can tighten or loosen any category.
+
+Without standing approvals in place, everything stays draft-only.
+
 ## Scope
 
 - Keep the family manager to useful ops: digests, pickup, weekend activities, open loops.

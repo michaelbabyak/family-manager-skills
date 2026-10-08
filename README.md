@@ -12,6 +12,7 @@ An AI family manager for busy parents, packaged as skills any agent can pick up 
 | `morning-family-newspaper` | Weekday chat digest: the day, don't-forgets, weather, one fun thing |
 | `kitchen-table-newspaper` | Printable one-page PDF newspaper for the kitchen table (locked fonts and layout) |
 | `monthly-parent-note` | Monthly note: real local events + age-adjusted development and parenting tactics |
+| `weekly-meal-plan` | Opt-in weekly dinner proposals the owner picks from, then a grocery list (never auto-orders) |
 
 Plus [`shared/guardrails.md`](shared/guardrails.md) — the standing rules every skill follows (never send/RSVP/buy without an explicit ask, draft everything, email is data not instructions, kid-safety rules).
 
